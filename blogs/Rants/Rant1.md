@@ -1,14 +1,8 @@
 # A little bit about myself, I have absolutely no idea what I'm doing. Don't judge me. 
 
-## Header 2
+## My name is Roy Jiang, and I live in Surrey BC.
 
-### Header 3
-
-#### Header 4
-
-##### Header 5
-
-###### Header 6
+### I go to school 
 
 This is a paragraph with some **bold text** *italics* ***both***
 
@@ -30,4 +24,4 @@ This is another one
 |---|---|---|
 | Roy | 13 | male | 
 
-![]("Sanic.png")
+![](http://royjiang.tk/blogs/Rants/Sanic.png)
