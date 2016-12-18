@@ -1,0 +1,9 @@
+[
+	{
+		"name": "Rants",
+		"folder": "Rants",
+		"blogs": [
+			{"name":"Rant Blogs", "file": "Rant1.md"}
+		]
+	}
+]
