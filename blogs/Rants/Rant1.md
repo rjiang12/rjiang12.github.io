@@ -1,4 +1,4 @@
-# Header 1
+# A little bit about myself, I have absolutely no idea what I'm doing. Don't judge me. 
 
 ## Header 2
 
@@ -28,4 +28,6 @@ This is another one
 
 | name | age | gender |
 |---|---|---|
-| Roy | 13 | male
+| Roy | 13 | male | 
+
+![]("Sanic.png")
