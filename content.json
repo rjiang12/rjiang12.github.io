@@ -10,7 +10,7 @@
 		"name": "Rants",
 		"folder": "Rants",
 		"blogs": [
-			{"name":"Rant Blogs", "file": "Pointlessquestions.md"}
+			{"name":"Pointless Questions", "file": "Pointlessquestions.md"}
 		]
 	}
 ]
