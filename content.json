@@ -3,14 +3,14 @@
 		"name": "Rants",
 		"folder": "Rants",
 		"blogs": [
-			{"name":"Rant Blogs", "file": "PtW Rant.md"}
+			{"name":"Rant Blogs", "file": "Paytowinrant.md"}
 		]
 	}, 
 	{
 		"name": "Rants",
 		"folder": "Rants",
 		"blogs": [
-			{"name":"Rant Blogs", "file": "Pointless questions.md"}
+			{"name":"Rant Blogs", "file": "Pointlessquestions.md"}
 		]
 	}
 ]
