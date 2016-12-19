@@ -7,3 +7,13 @@
 		]
 	}
 ]
+
+[
+	{
+		"name": "Rants",
+		"folder": "Rants",
+		"blogs": [
+			{"name":"Rant Blogs", "file": "Pointless questions.md"}
+		]
+	}
+]
