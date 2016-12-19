@@ -5,10 +5,7 @@
 		"blogs": [
 			{"name":"Rant Blogs", "file": "PtW Rant.md"}
 		]
-	}
-]
-
-[
+	}, 
 	{
 		"name": "Rants",
 		"folder": "Rants",
