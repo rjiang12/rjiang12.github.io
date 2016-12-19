@@ -3,7 +3,7 @@
 		"name": "Rants",
 		"folder": "Rants",
 		"blogs": [
-			{"name":"Rant Blogs", "file": "Paytowinrant.md"},
+			{"name":"Pay to Win rant", "file": "Paytowinrant.md"},
 			{"name":"Pointless Questions", "file": "Pointlessquestions.md"}
 		]
 	}
