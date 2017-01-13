@@ -1,10 +1,10 @@
 [
 	{
-		"name": "Rants",
-		"folder": "Rants",
+		"name": "School",
+		"folder": "School",
 		"blogs": [
-			{"name":"Pay to Win rant", "file": "Paytowinrant.md"},
-			{"name":"Pointless Questions", "file": "Pointlessquestions.md"}
+			{"name":"", "file": ""},
+			{"name":"", "file": ""}
 		]
 	}
 ]
