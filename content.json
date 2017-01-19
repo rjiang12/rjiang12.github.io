@@ -3,7 +3,7 @@
 		"name": "School",
 		"folder": "School",
 		"Materials": [
-			{"name":"", "file": ""},
+			{"name":"SLC 2017", "file": "SLC_2017"},
 			{"name":"", "file": ""}
 		]
 	}
