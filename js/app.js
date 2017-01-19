@@ -36,7 +36,7 @@ app.run(function ($rootScope) {
 
 app.controller('AppCtrl', function ($scope, $http, $state, $location) {
 	window.componentHandler.upgradeAllRegistered();
-	$scope.content_title = "Blog";
+	$scope.content_title = "Materials";
 
 	var folderName = null;
 
@@ -51,9 +51,9 @@ app.controller('AppCtrl', function ($scope, $http, $state, $location) {
 		if (name !== "back") {
 			// go down
 			var result = $.grep($scope.contents, function (e) { return e.name === name; });
-			if (result.length > 0) { // show blogs
+			if (result.length > 0) { // show Materialss
 				var r = result[0];
-				$scope.links = r.blogs;
+				$scope.links = r.Materialss;
 				$scope.content_title = result[0].name;
 				folderName = result[0].folder;
 			} else { // show one lecture
@@ -66,7 +66,7 @@ app.controller('AppCtrl', function ($scope, $http, $state, $location) {
 		} else {
 			// go up
 			$scope.links = $scope.contents;
-			$scope.content_title = "Blog";
+			$scope.content_title = "Materials";
 		}
 	};
 
@@ -83,10 +83,10 @@ app.controller('HomeCtrl', function ($scope, $interval) {
 app.controller('ViewerCtrl', function ($scope, $stateParams, $http) {
 	componentHandler.upgradeAllRegistered();
 	if (("" + $stateParams.filename).endsWith('.pdf')) {
-		window.open("blogs/" + $stateParams.foldername + "/" + $stateParams.filename);
-		$("#viewer-card").html("Blogs are shown in a seperate window");
+		window.open("Materialss/" + $stateParams.foldername + "/" + $stateParams.filename);
+		$("#viewer-card").html("Materialss are shown in a seperate window");
 	} else {
-		$http.get("blogs/" + $stateParams.foldername + "/" + $stateParams.filename).then(function (response) {
+		$http.get("Materialss/" + $stateParams.foldername + "/" + $stateParams.filename).then(function (response) {
 			var body = {
 				"text": response.data,
 				"mode": "markdown"
