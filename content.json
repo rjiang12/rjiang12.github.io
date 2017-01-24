@@ -3,7 +3,7 @@
 		"name": "Grade 8",
 		"folder": "School",
 		"Materials": [
-			{"name":"SLC 2017", "file": "SLC2017.md"}
+			{"name":"SLC 2017", "file": "slc2017.md"}
 		]
 	}
 ]
