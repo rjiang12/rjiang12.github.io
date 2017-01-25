@@ -1,7 +1,7 @@
 [
 	{
 		"name": "Grade 8",
-		"folder": "School",
+		"folder": "Grade 8",
 		"Materials": [
 			{"name":"SLC 2017", "file": "slc2017.md"}
 		]
